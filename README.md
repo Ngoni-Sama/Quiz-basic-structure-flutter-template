@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![App Brewery Banner](https://github.com/Ngoni-Sama/Quiz-basic-structure-flutter-template/blob/main/quiz%20screen%20shot.PNG)
 
 
 # Quizzler Challenge Solution
